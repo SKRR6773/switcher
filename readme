@@ -1,0 +1,19 @@
+generate username
+game mode -> player vs player and player vs bot
+suggest list number
+
+
+sound
+    - winner and lost
+    - low and high of number
+    - user join and disconnect
+    # - intent
+    - your turn
+    #- nearby sound
+
+
+- game rules
+    - countdown
+    - range
+    - no-action to next player and next set countdown to ## in next round
+    - Very nearby, choose choices
